@@ -1,0 +1,22 @@
+body{
+    
+    background: rgb(190, 201, 42);
+}
+table{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(119, 224, 189);
+    border-radius: 50px;
+    padding: 50px;
+    border-style: dotted;
+}
+input{
+    text-align: center;
+    background-color: rgb(225, 231, 204);
+    height: 70px;
+    width: 300px;
+    border-radius: 50px;
+}
+h2{
+    text-decoration-color: blueviolet;
+}
